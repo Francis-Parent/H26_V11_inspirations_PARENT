@@ -1,7 +1,8 @@
 # Francis Parent
 
-![photo](
+![Art Alex Theriault](https://github.com/user-attachments/assets/ba33fc0c-d098-487b-9535-250e5f1b9be7)
 
+>Je me sens représenté par l'oeuvre d'Alex Theriault, *Home! Just as Good as Ever!*, Hassenfeld Child Health Innovation Institute, août 2020.
 
 
 
