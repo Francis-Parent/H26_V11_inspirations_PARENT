@@ -60,15 +60,15 @@
 ## Le visiteur doit se placer en avant de l'écran et écouter l'audio qui vient de la vidéo avec l'IA, utilisant les écouteurs ou en entendant les speakers. Cette personne écoute ce qui est dit et se pose plusieurs questions sur les sujets parlés comme la raison d'utiliser un IA, pourquoi comprendre ce qui sort de l'IA et comment on peut sentir de l'empathie pour une personne, même si elle n'est pas réelle en explicant son histoire. Moi, personnellement, j'ai rien ressenti sortant de cette expérience sauf plus de connaissances sur l'artiste et son parcours à vouloir créer cette pièce.
 
 # Ce qui m'a plu:
-## J'ai trouvé intéressant comment certaines fois dans les vidéos où il y a plusieurs IA, certaines de leurs paroles seront dites différement de chacuns, ce qui m'apporte un peu de curiosité avec comment le restant de la vidéo va se dérouler.
+## J'ai trouvé intéressant comment certaines fois dans les vidéos où il y a plusieurs IA, certaines de leurs paroles seront dites différement de chacuns, ce qui m'apporte un peu de curiosité avec comment le restant de la vidéo va se dérouler. Par example, sur la photo ci-dessous, les 3 IA dissent la même phrases, mais leurs tonnations, le début de leurs paroles et même un qui parle plus que les autres aide à m'intéresser sur ce que je regarde devant moi.
 ![DM_difference-3_20260130](https://github.com/user-attachments/assets/6ee302c1-04b7-4cd1-87f1-2db8cdd0dccb)
 > Photo qui montre un example de ce qui a plu par Francis Parent (30 janvier 2026)
 
 # Ce que je ferait comme changements:
-## Les deux premières vidéos dans les écrans isolées semblent plus comme des démos de comment tester l'IA et l'utiliser dans les autres vidéos, comme la première est de comment parler et la deuxième est de comment utiliser deux différents IA dans la mêmne vidéo. 
+## Les deux premières vidéos dans les écrans isolées semblent plus comme des démos de comment tester l'IA et l'utiliser dans les autres vidéos, comme la première est un seul IA qui parle sans trop bouger de comment elle a été créé, ce qui me fait presque penser à un audiocommentaire avec une image statique en avant de moi. De plus, la deuxième est de comment utiliser deux différents IA dans la mêmne vidéo, mais il y a presque aucune différences entre les deux IA, sauf leurs apparences et le petit mouvement répététif des mains du deuxième IA.
 ![DM_DaynAI_03_20260130](https://github.com/user-attachments/assets/8aaac0db-3ceb-483b-b4e3-8d2ef6b9927d)
 > Photo de la première vidéo de l'expérience par Francis Parent (30 janvier 2026)
-## Aussi, les vidéos elles-mêmes sont seulement l'image d'une personne qui parle en regardant l'écran sans changer de cette répétition ou ajouter des animations qui changent le visuel de la vidéo, parce que après un peu de temps, les vidéos commencent à devenir ennuyantent à regarder.
+## Aussi, les vidéos elles-mêmes sont seulement l'image d'une personne qui parle en regardant l'écran sans changer de cette répétition ou ajouter des animations qui changent le visuel de la vidéo, parce que après un peu de temps, les vidéos commencent à devenir ennuyantent à regarder car il n'y a rien pour vraiment vouloir rester et regarder jusqu'à la fin.
 ![DM_talkback_13_20260130](https://github.com/user-attachments/assets/f1616178-9ab8-4cef-af2b-6db1e8686824)
 > Photo de la troisième vidéo avec une faible action de l'IA par Francis Parent (30 janvier 2026)
 
