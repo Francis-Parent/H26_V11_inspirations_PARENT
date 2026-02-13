@@ -4,7 +4,6 @@
 ## Lieu: Gallerie de l'Université de Montréal
 <img width="500" height="956" alt="image" src="https://github.com/user-attachments/assets/26e8ae0f-4921-421c-a32d-1f9f7d18ad5a" />
 
-
 ## Type d'exposition: Temporaire, intérieure
 
 ## Date de visite: 30 janvier 2026
@@ -44,3 +43,4 @@
 ## Ce que je ferait comme changements:
 
 ## Références:
+- https://www.alamy.com/stock-photo/montreal-university.html?sortBy=relevant
