@@ -2,6 +2,8 @@
 ![DM_galerie-entrée_20260130](https://github.com/user-attachments/assets/e11a5fc8-3592-40d1-85ca-98674744f6e6)
 
 ## Lieu: Gallerie de l'Université de Montréal
+<img width="500" height="956" alt="image" src="https://github.com/user-attachments/assets/26e8ae0f-4921-421c-a32d-1f9f7d18ad5a" />
+
 
 ## Type d'exposition: Temporaire, intérieure
 
