@@ -1,1 +1,1 @@
-Ceci est ma présentation sur l'exposition Divers dans l'IA
+Ceci est ma présentation sur l'exposition Devenirs de l'IA
