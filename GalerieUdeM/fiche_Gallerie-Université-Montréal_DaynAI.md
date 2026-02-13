@@ -19,6 +19,7 @@
 
 ## Description de l'oeuvre:
 ![DM_sources_01_20260130](https://github.com/user-attachments/assets/827f1a29-42ad-4622-9fee-913cc4250980)
+# Cette oeuvre est la personnification de son expérience avec la perte d'une personne proche, son épouse MJ Raposo, et de son combat contre le cancer avec ses traitements. Elle interroge la question de l'empathie et d'émotions complexes en utilisant l'IA pour pouvoir parler.
 
 ## Type d'installation: contemplative
 ![DM_environnement_20260130](https://github.com/user-attachments/assets/1e0aa51f-2154-4de2-a65c-4cba98b72bc4)
@@ -30,11 +31,21 @@
 
 ## Mise en espace:
 ![DM_environnement_20260130](https://github.com/user-attachments/assets/679b96d2-69a4-4f8e-a18f-db3f9ee5bdf9)
+# L'oeuvre présenté est installé vers un des quatres coins de la salle d'exposition. Il y a deux groupes de trois écrans, un groupe collé vers le mur, l'autre suspendu dans les airs. Il y a un assez gros vide entre chaque station dans l'exposition du travail d'art, principalement entre les deux groupes. L'espace pour le visionner est grand pour y avoir plusieurs personnes qui visionnent les vidéos présentées en avant d'eux.
 
 ## Composante et techniques:
 ![DM_equipement_20260130](https://github.com/user-attachments/assets/abd0441c-a5a7-4b5b-b3ef-e45bf89f4ab5)
+# Les composantes essentielles de l'exposition sont les vidéos qui sont présentées. Les transporter vers d'autres galleries ne seraient pas trop difficiles, sauf si jamais il y manque les écrans qui ont les mêmes dimensions que dans les photos présentées.
 
 ## Éléments nécessaires à la mise en exposition:
+![DM_equipement_20260130](https://github.com/user-attachments/assets/fb3ae33a-8224-4d42-9df7-ddaf4f12d56e)
+# Ce qui serait nécessaire pour pouvoir vivre cette expérience serait:
+- des écrans pour chaque vidéos, 3 écrans d'ordinateur pour les 3 vidéos isolées et 3 écrans verticals pour la dernière vidéo
+- des écouteurs pour écouter les vidéos isolées de chacuns
+- des câbles pour tout brancher et faire fonctionner
+- des speakers pour entendre la vidéo avec 3 écrans ensemble
+- des tablettes pour pouvoir tenir les écrans d'ordinateurs à la hauteur des yeux d'une personne
+- des crochêts pour tenir les 3 écrans dans l'air
 
 ## Expérience vécue:
 
@@ -44,3 +55,5 @@
 
 ## Références:
 - https://www.alamy.com/stock-photo/montreal-university.html?sortBy=relevant
+- https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php
+- Autres photos sont prises par Francis Parent
