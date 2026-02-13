@@ -17,15 +17,21 @@ Nom de l'artiste: Dayna Mcleod
 Année de réalisation: 2023
 
 Description de l'oeuvre:
+![DM_sources_01_20260130](https://github.com/user-attachments/assets/827f1a29-42ad-4622-9fee-913cc4250980)
 
 Type d'installation: contemplative
+![DM_environnement_20260130](https://github.com/user-attachments/assets/1e0aa51f-2154-4de2-a65c-4cba98b72bc4)
+![DM_difference-3_20260130](https://github.com/user-attachments/assets/b870716d-6a28-4adc-9e98-4b96abad1301)
 
 Fonction du dipositif multimédia:
+![DM_equipement_20260130](https://github.com/user-attachments/assets/30de4745-cf84-4694-b883-2cd1b3809f8d)
+![DM_difference-3_20260130](https://github.com/user-attachments/assets/b870716d-6a28-4adc-9e98-4b96abad1301)
 
 Mise en espace:
 ![DM_environnement_20260130](https://github.com/user-attachments/assets/679b96d2-69a4-4f8e-a18f-db3f9ee5bdf9)
 
 Composante et techniques:
+![DM_equipement_20260130](https://github.com/user-attachments/assets/abd0441c-a5a7-4b5b-b3ef-e45bf89f4ab5)
 
 Éléments nécessaires à la mise en exposition:
 
