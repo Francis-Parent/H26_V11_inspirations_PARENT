@@ -48,10 +48,17 @@
 - des crochêts pour tenir les 3 écrans dans l'air
 
 # Expérience vécue:
+## Le visiteur doit se placer en avant de l'écran et écouter l'audio qui vient de la vidéo avec l'IA, utilisant les écouteurs ou en entendant les speakers. Cette personne écoute ce qui est dit et se pose plusieurs questions sur les sujets parlés comme la raison d'utiliser un IA, pourquoi comprendre ce qui sort de l'IA et comment on peut sentir de l'empathie pour une personne, même si elle n'est pas réelle en explicant son histoire. Moi, personnellement, j'ai rien ressenti sortant de cette expérience sauf plus de connaissances sur l'artiste et son parcours à vouloir créer cette pièce.
 
 # Ce qui m'a plu:
+## J'ai trouvé intéressant comment certaines fois dans les vidéos où il y a plusieurs IA, certaines de leurs paroles seront dites différement de chacuns, ce qui m'apporte un peu de curiosité avec comment le restant de la vidéo va se dérouler.
+![DM_difference-3_20260130](https://github.com/user-attachments/assets/6ee302c1-04b7-4cd1-87f1-2db8cdd0dccb)
 
 # Ce que je ferait comme changements:
+## Les deux premières vidéos dans les écrans isolées semblent plus comme des démos de comment tester l'IA et l'utiliser dans les autres vidéos, comme la première est de comment parler et la deuxième est de comment utiliser deux différents IA dans la mêmne vidéo. 
+![DM_DaynAI_03_20260130](https://github.com/user-attachments/assets/8aaac0db-3ceb-483b-b4e3-8d2ef6b9927d)
+## Aussi, les vidéos elles-mêmes sont seulement l'image d'une personne qui parle en regardant l'écran sans changer de cette répétition ou ajouter des animations qui changent le visuel de la vidéo, parce que après un peu de temps, les vidéos commencent à devenir ennuyantent à regarder.
+![DM_talkback_13_20260130](https://github.com/user-attachments/assets/f1616178-9ab8-4cef-af2b-6db1e8686824)
 
 # Références:
 - https://www.alamy.com/stock-photo/montreal-university.html?sortBy=relevant
