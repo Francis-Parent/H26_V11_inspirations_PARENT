@@ -22,6 +22,8 @@
 # Type d'installation: Contemplative
 # Fonction du dispositif multimédia: Scénographique, mise en valeur, mise en contexte, support pédagogique
 # Mise en espace:
+![MEM_Montréal_08_20260220](https://github.com/user-attachments/assets/d05105c2-c47f-4339-a462-913d30f6ea67)
+> Photo du aide-mémoire de navigation dans l'exposition prise par Martin Parent (20 février 2026)
 # Composantes et techniques: 
 # Éléments nécessaires: Vidéos, speakers, écrans, écouteurs, projecteurs, murs, pancartes, plusieurs objects historiques à l'histoire de Montréal
 # Expérience vécue:
