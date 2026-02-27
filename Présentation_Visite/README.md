@@ -1,1 +1,1 @@
-Voici ma présentation sur la présentation choisi
+Voici ma présentation sur l'exposition choisi
