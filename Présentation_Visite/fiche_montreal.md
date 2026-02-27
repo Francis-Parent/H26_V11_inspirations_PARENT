@@ -6,8 +6,8 @@
 # Nom des artistes: MEM - Centre des mémoires montréalaises et plusieurs volontaires
 # Année de réalisation: 2024
 # Description de l'oeuvre: 
-## C'est un écran courbe avec plusieurs objets qui parle de l'exposition Universelle de Montréal le 27 avril 1967
-# Type d'installation: Contemplative
+## C'est un écran courbe avec plusieurs objets qui parle de l'Exposition Universelle de Montréal (ou Expo 67) le 27 avril 1967
+# Type d'installation: Contemplative, immersive
 # Fonction du dispositif multimédia: Scénographique, mise en valeur, mise en contexte, support pédagogique
 # Mise en espace:
 # Composantes et techniques: 
