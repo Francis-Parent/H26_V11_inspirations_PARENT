@@ -1,14 +1,23 @@
-# Nom de l'exposition: Montréal
-# Lieu: Centre des mémoires montréalaises
-# Type d'exposition: Permanente de juillet 2024 au janvier 2030, itinéaire, intérieure
-# Date de visite: 19 février 2026
-# Titre de l'oeuvre: La machine à voyager dans le temps
-# Nom des artistes: MEM - Centre des mémoires montréalaises et plusieurs volontaires
-# Année de réalisation: 2024
+# Nom de l'exposition: 
+## Montréal
+# Lieu: 
+## Centre des mémoires montréalaises
+# Type d'exposition: 
+## Permanente de juillet 2024 au janvier 2030, itinéaire, intérieure
+# Date de visite: 
+## 19 février 2026
+# Titre de l'oeuvre: 
+## La machine à voyager dans le temps
+# Nom des artistes: 
+## MEM - Centre des mémoires montréalaises et plusieurs volontaires
+# Année de réalisation: 
+## 2024
 # Description de l'oeuvre: 
 ## C'est un écran courbe avec plusieurs objets attachés qui parle de l'Exposition Universelle de Montréal (ou Expo 67) le 27 avril 1967
-# Type d'installation: Contemplative, immersive
-# Fonction du dispositif multimédia: Scénographique, mise en valeur, mise en contexte, support pédagogique
+# Type d'installation: 
+## Contemplative, immersive
+# Fonction du dispositif multimédia: 
+## Scénographique, mise en valeur, mise en contexte, support pédagogique
 # Mise en espace:
 # Composantes et techniques: 
 ## Les vidéos, les tracks audios et plusieurs objets physiques seraient nécessaires pour la présentation. Les transports auraient un peu de difficulté pour les objets physiques et ne pas les endommager.
