@@ -25,7 +25,8 @@
 ![MEM_Montréal_08_20260220](https://github.com/user-attachments/assets/d05105c2-c47f-4339-a462-913d30f6ea67)
 > Photo du aide-mémoire de navigation dans l'exposition prise par Martin Parent (20 février 2026)
 # Composantes et techniques: 
-# Éléments nécessaires: Vidéos, speakers, écrans, écouteurs, projecteurs, murs, pancartes, plusieurs objects historiques à l'histoire de Montréal
+# Éléments nécessaires: 
+## Vidéos, speakers, écrans, écouteurs, projecteurs, murs, pancartes, plusieurs objects historiques à l'histoire de Montréal
 # Expérience vécue:
 # Ce qui m'a plu: 
 ## La présentation était amusante et m'a aidé à m'intéresser plus dans l'histoire et des évènements qui se sont passé. Aussi, les différentes façons que certaines vidéos se sont présentées m'ont surpris en gardant mon attention à apprendre.
