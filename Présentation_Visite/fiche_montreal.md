@@ -21,4 +21,6 @@
 ## Plusieurs des vidéos sont éparpillées autour du gros écran, ce qui fait difficile à tout regardé en même temps.
 # Références:
 - https://memmtl.ca/programmation/montreal
-- Les photos sont prises par Martin Parent
+- https://fr.wikipedia.org/wiki/Exposition_universelle_de_1967
+- https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dexpo-67
+- Les autres photos sont prises par Martin Parent
