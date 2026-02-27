@@ -4,7 +4,7 @@
 # Lieu: Centre des mémoires montréalaises
 ![MEM_Montréal_01_20260220](https://github.com/user-attachments/assets/26f67177-7b9e-429d-9929-d219b5c95b5b)
 > Photo de moi devant l'entrée de l'édifice MEM prise par Martin Parent (20 février 2026)
-# Type d'exposition: Permanente du février 2026 au janvier 2030, itinéaire, intérieure
+# Type d'exposition: Permanente de juillet 2024 au janvier 2030, itinéaire, intérieure
 # Date de visite: 19 février 2026
 # Titre de l'oeuvre: Montréal
 ![MEM_Montréal_02_20260220](https://github.com/user-attachments/assets/3d261524-b28a-4b3f-9bf9-f2b642c323c6)
@@ -14,7 +14,7 @@
 ![MEM_Montréal_06_20260220](https://github.com/user-attachments/assets/43e617ba-4c46-4a9a-a027-5e392c691575)
 ![MEM_Montréal_07_20260220](https://github.com/user-attachments/assets/14b5e357-93c5-40b0-a90d-456cd68f8365)
 > Photos des affiches d'appréciations prise par Martin Parent (20 février 2026)
-# Année de réalisation: 2026
+# Année de réalisation: 2024
 # Description de l'oeuvre: 
 ## C'est une grande exposition qui parle de l'histoire du Québec dans les alentours des années 80s. 
 ![MEM_Montréal_03_20260220](https://github.com/user-attachments/assets/5afec9da-454d-42ec-8cda-5534f32f6b7b)
@@ -30,7 +30,7 @@
 # Ce qui m'a plu: 
 ## La présentation était amusante et m'a aidé à m'intéresser plus dans l'histoire et des évènements qui se sont passé. Aussi, les différentes façons que certaines vidéos se sont présentées m'ont surpris en gardant mon attention à apprendre.
 # Aspects à ne pas retenir: 
-## Plusieurs aspects sont en audio, ce qui m'est personnellement pas le plus favorable pour apprendre de l'information.
+## Plusieurs aspects de l'exposition sont en audio, ce qui m'est personnellement pas le plus favorable pour apprendre de l'information.
 # Références:
 - https://memmtl.ca/programmation/montreal
 - Les photos sont prises par Francis Parent et Martin Parent
