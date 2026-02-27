@@ -25,6 +25,7 @@
 ![MEM_Montréal_08_20260220](https://github.com/user-attachments/assets/d05105c2-c47f-4339-a462-913d30f6ea67)
 > Photo du aide-mémoire de navigation dans l'exposition prise par Martin Parent (20 février 2026)
 # Composantes et techniques: 
+## Les vidéos, les tracks audios et plusieurs objets physiques seraient nécessaires pour la présentation. Les transports auraient un peu de difficulté pour les objets physiques et ne pas les endommager.
 # Éléments nécessaires: 
 ## Vidéos, speakers, écrans, écouteurs, projecteurs, murs, pancartes, plusieurs objects historiques à l'histoire de Montréal
 # Expérience vécue:
