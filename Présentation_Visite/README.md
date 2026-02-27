@@ -1,1 +1,1 @@
-Voici ma présentation sur l'exposition choisi
+Voici ma présentation sur l'exposition Montréal
