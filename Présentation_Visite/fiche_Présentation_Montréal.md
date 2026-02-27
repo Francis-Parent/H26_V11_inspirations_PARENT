@@ -1,16 +1,18 @@
 # Nom de pièce: Montréal
-![MEM_Montréal_01_20260220](https://github.com/user-attachments/assets/26f67177-7b9e-429d-9929-d219b5c95b5b)
-> Photo de moi devant l'entrée de l'édifice MEM prise par Martin Parent (20 février 2026)
-# Lieu: Centre des mémoires montréalaises
-# Type d'exposition: Temporaire du février 2026 au janvier 2030, itinéaire, intérieure
-# Date de visite: 19 février 2026
-# Titre de l'oeuvre: Montréal
 ![MEM_Montréal_02_20260220](https://github.com/user-attachments/assets/3d261524-b28a-4b3f-9bf9-f2b642c323c6)
 > Photo de moi à côté de l'affiche de l'exposition Montréal prise par Martin Parent (20 février 2026)
+# Lieu: Centre des mémoires montréalaises
+![MEM_Montréal_01_20260220](https://github.com/user-attachments/assets/26f67177-7b9e-429d-9929-d219b5c95b5b)
+> Photo de moi devant l'entrée de l'édifice MEM prise par Martin Parent (20 février 2026)
+# Type d'exposition: Permanente du février 2026 au janvier 2030, itinéaire, intérieure
+# Date de visite: 19 février 2026
+# Titre de l'oeuvre: Montréal
 # Nom de l'artiste: MEM - Centre des mémoires montréalaises
 # Année de réalisation: 2026
 # Description de l'oeuvre: 
 ## C'est une grande exposition qui parle de l'histoire du Québec dans les alentours des années 80s. 
+![MEM_Montréal_03_20260220](https://github.com/user-attachments/assets/5afec9da-454d-42ec-8cda-5534f32f6b7b)
+> Photo de l'affiche d'information de l'exposition Montréal prise par Francis Parent (20 février 2026)
 # Type d'installation: Contemplative
 # Fonction du dispositif multimédia: Scénographique, mise en valeur, mise en contexte, support pédagogique
 # Mise en espace:
