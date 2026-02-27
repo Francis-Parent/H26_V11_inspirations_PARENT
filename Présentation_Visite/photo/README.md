@@ -1,1 +1,1 @@
-Voici les images utilisées dans ma présentation sur mon exposition.
+Voici les images utilisées dans ma présentation sur mon exposition
