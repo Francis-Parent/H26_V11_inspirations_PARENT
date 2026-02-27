@@ -1,6 +1,6 @@
 # Nom de pièce: Montréal
 ![MEM_Montréal_01_20260220](https://github.com/user-attachments/assets/26f67177-7b9e-429d-9929-d219b5c95b5b)
-> Photo prise par Martin Parent
+> Photo de moi devant l'entrée de l'édifice MEM prise par Martin Parent (20 février 2026)
 # Lieu: Centre des mémoires montréalaises
 # Type d'exposition: Temporaire du février 2026 au janvier 2030, itinéaire, intérieure
 # Date de visite: 19 février 2026
