@@ -9,7 +9,12 @@
 # Titre de l'oeuvre: Montréal
 ![MEM_Montréal_02_20260220](https://github.com/user-attachments/assets/3d261524-b28a-4b3f-9bf9-f2b642c323c6)
 > Photo de moi à côté de l'affiche de l'exposition Montréal prise par Martin Parent (20 février 2026)
-# Nom de l'artiste: MEM - Centre des mémoires montréalaises
+# Nom des l'artiste: MEM - Centre des mémoires montréalaises et plusieurs volontaires
+![MEM_Montréal_04_20260220](https://github.com/user-attachments/assets/dcdb6cad-b50e-4aaa-b81a-fe43ecea135a)
+![MEM_Montréal_05_20260220](https://github.com/user-attachments/assets/86e2383e-94c6-4eb9-ad49-e406e168d1d8)
+![MEM_Montréal_06_20260220](https://github.com/user-attachments/assets/43e617ba-4c46-4a9a-a027-5e392c691575)
+![MEM_Montréal_07_20260220](https://github.com/user-attachments/assets/14b5e357-93c5-40b0-a90d-456cd68f8365)
+> Photos des affiches d'appréciations prise par Martin Parent (20 février 2026)
 # Année de réalisation: 2026
 # Description de l'oeuvre: 
 ## C'est une grande exposition qui parle de l'histoire du Québec dans les alentours des années 80s. 
