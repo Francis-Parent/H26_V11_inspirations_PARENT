@@ -5,6 +5,8 @@
 # Type d'exposition: Temporaire du février 2026 au janvier 2030, itinéaire, intérieure
 # Date de visite: 19 février 2026
 # Titre de l'oeuvre: Montréal
+![MEM_Montréal_02_20260220](https://github.com/user-attachments/assets/3d261524-b28a-4b3f-9bf9-f2b642c323c6)
+> Photo de moi à côté de l'affiche de l'exposition Montréal prise par Martin Parent (20 février 2026)
 # Nom de l'artiste: MEM - Centre des mémoires montréalaises
 # Année de réalisation: 2026
 # Description de l'oeuvre: 
