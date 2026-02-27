@@ -32,4 +32,5 @@
 - https://memmtl.ca/programmation/montreal
 - https://fr.wikipedia.org/wiki/Exposition_universelle_de_1967
 - https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dexpo-67
+- https://www.expo67.museum/ressource/encyclopedie-du-mem-memoires-dexpo-67/
 - Les autres photos sont prises par Martin Parent
