@@ -13,7 +13,7 @@
 # Année de réalisation: 
 ## 2024
 # Description de l'oeuvre: 
-## C'est un écran courbe avec plusieurs objets attachés qui parle de l'Exposition Universelle de Montréal (ou Expo 67) le 27 avril 1967. Cette exposition était un évènement où 62 pays ont participés à créer des sections sur une île pour faire découvrir à des visiteurs les aspects de la culture du pays. Cet évènement aurait reçu au alentours de 50 millions visiteurs pendant sa durée de 183 jours.
+## C'est un écran courbe avec plusieurs objets attachés qui parle de l'Exposition Universelle de Montréal (ou Expo 67) le 27 avril 1967. Cette exposition était un évènement où, sur une île artificielle, 62 pays ont participés à créer des sections sur une île pour faire découvrir à des visiteurs les aspects de la culture du pays. Cet évènement aurait reçu au alentours de 50 millions visiteurs pendant sa durée de 183 jours.
 # Type d'installation: 
 ## Contemplative, immersive
 # Fonction du dispositif multimédia: 
