@@ -1,7 +1,7 @@
 # Nom de l'exposition: 
 ## Montréal
 ![photo](photo/Montreal_affiche.JPEG)
-> Moi devant l'édifice MEM
+> Moi devant l'édifice MEM par Martin Parent (19 février 2026)
 # Lieu: 
 ## MEM - Centre des mémoires montréalaises
 # Type d'exposition: 
