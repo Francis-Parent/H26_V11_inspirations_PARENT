@@ -1,17 +1,19 @@
 # Nom de l'exposition: 
 ## Montréal
 ![photo](photo/Montreal_affiche.JPEG)
-> Moi à côté de l'affiche Montréal par Martin Parent (19 février 2026)
+> Moi à côté de l'affiche Montréal prise par Martin Parent (19 février 2026)
 # Lieu: 
 ## MEM - Centre des mémoires montréalaises
 ![photo](photo/Montreal_location.JPEG)
-> Moi en avant de l'édifice MEM par Martin Parent (19 février 2026)
+> Moi en avant de l'édifice MEM prise par Martin Parent (19 février 2026)
 # Type d'exposition: 
 ## Permanente de juillet 2024 au janvier 2030, itinéaire, intérieure
 # Date de visite: 
 ## 19 février 2026
 # Titre de l'oeuvre: 
 ## La machine à voyager dans le temps
+![photo](photo/Montreal_environnement_01.JPEG) ![photo](photo/Montreal_environnement_02.JPEG)
+> Vue de la salle de l'expérience prise par Martin Parent (19 février 2026)
 # Nom des artistes: 
 ## MEM - Centre des mémoires montréalaises et plusieurs volontaires
 # Année de réalisation: 
