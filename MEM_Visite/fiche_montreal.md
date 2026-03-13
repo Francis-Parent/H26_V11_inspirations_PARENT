@@ -13,7 +13,7 @@
 # Titre de l'oeuvre: 
 ## La machine à voyager dans le temps
 ![photo](photo/Montreal_environnement_01.JPEG) ![photo](photo/Montreal_environnement_02.JPEG)
-> Vue de la salle de l'expérience prise par Martin Parent (19 février 2026)
+> Vue de la salle de l'expérience prisent par Martin Parent (19 février 2026)
 # Nom des artistes: 
 ## MEM - Centre des mémoires montréalaises et plusieurs volontaires
 # Année de réalisation: 
@@ -24,13 +24,21 @@
 > La cartel pour l'expérience prise par Martin Parent (19 février 2026)
 # Type d'installation: 
 ## Contemplative, immersive
+![photo](photo/Montreal_environnement_01.JPEG) ![photo](photo/Montreal_environnement_02.JPEG)
+> Vue de la salle de l'expérience prisent par Martin Parent (19 février 2026)
 # Fonction du dispositif multimédia: 
 ## Scénographique, mise en valeur, mise en contexte, support pédagogique
 # Mise en espace:
+![photo](photo/Montreal_croquis.jpg)
+> Dessin avec information générale de la salle de l'expérience prise par Francis Parent (19 février 2026)
 # Composantes et techniques: 
 ## Les vidéos, les tracks audios et plusieurs objets physiques seraient nécessaires pour la présentation. Les transports auraient un peu de difficulté pour les objets physiques et ne pas les endommager.
+![photo](photo/Montreal_environnement_01.JPEG) ![photo](photo/Montreal_environnement_02.JPEG)
+> Vue de la salle de l'expérience prisent par Martin Parent (19 février 2026)
 # Éléments nécessaires: 
 ## Vidéos, speakers, écran, projecteurs, murs, les objets attachés sur l'écran
+![photo](photo/Montreal_haut_parleur.JPEG) ![photo](photo/Montreal_projecteur_01.JPEG) ![photo](photo/Montreal_projecteur_02.JPEG) ![photo](photo/Montreal_projecteur_03.JPEG) ![photo](photo/Montreal_television.JPEG)
+> Plusieurs composants nécessaires pour pouvoir vivre l'expérience prisent par Martin Parent (19 février 2026)
 # Expérience vécue:
 # Ce qui m'a plu: 
 ## La présentation était amusante et m'a intéresser plus dans l'histoire de l'évènement. Aussi, les différentes façons que certaines vidéos se sont présentées m'ont surpris en gardant mon attention pour attraper chaque détail.
