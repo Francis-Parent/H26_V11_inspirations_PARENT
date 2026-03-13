@@ -25,9 +25,9 @@
 ## Vidéos, speakers, écran, projecteurs, murs, les objets attachés sur l'écran
 # Expérience vécue:
 # Ce qui m'a plu: 
-## La présentation était amusante et m'a aidé à m'intéresser plus dans l'histoire et de l'évènement qui s'est passé. Aussi, les différentes façons que certaines vidéos se sont présentées m'ont surpris en gardant mon attention à apprendre.
+## La présentation était amusante et m'a intéresser plus dans l'histoire de l'évènement. Aussi, les différentes façons que certaines vidéos se sont présentées m'ont surpris en gardant mon attention pour attraper chaque détail.
 # Aspects à ne pas retenir: 
-## Plusieurs des vidéos sont éparpillées autour du gros écran, ce qui fait difficile à tout regardé en même temps.
+## Plusieurs fois durant la présentation, les vidéos s'éparpillent partout sur le gros écran, ce qui fait difficile à garder attention.
 # Références:
 - https://memmtl.ca/programmation/montreal
 - https://fr.wikipedia.org/wiki/Exposition_universelle_de_1967
