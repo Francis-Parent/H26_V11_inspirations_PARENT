@@ -1,6 +1,7 @@
 # Nom de l'exposition: 
 ## Montréal
-
+![photo](photo/Montreal_affiche.JPEG)
+> Moi devant l'édifice MEM
 # Lieu: 
 ## MEM - Centre des mémoires montréalaises
 # Type d'exposition: 
