@@ -36,7 +36,7 @@
 ![photo](photo/Montreal_environnement_01.JPEG) ![photo](photo/Montreal_environnement_02.JPEG)
 > Vue de la salle de l'expérience prisent par Martin Parent (19 février 2026)
 # Éléments nécessaires: 
-## Vidéos, speakers, écran, projecteurs, murs, les objets attachés sur l'écran
+## Vidéos, speakers, écran, projecteurs, les objets attachés sur l'écran
 ![photo](photo/Montreal_haut_parleur.JPEG) ![photo](photo/Montreal_projecteur_01.JPEG) ![photo](photo/Montreal_projecteur_02.JPEG) ![photo](photo/Montreal_projecteur_03.JPEG) ![photo](photo/Montreal_television.JPEG)
 > Plusieurs composants nécessaires pour pouvoir vivre l'expérience prisent par Martin Parent (19 février 2026)
 # Expérience vécue:
