@@ -1,7 +1,7 @@
 # Nom de l'exposition: 
 ## Montréal
 # Lieu: 
-## Centre des mémoires montréalaises
+## MEM - Centre des mémoires montréalaises
 # Type d'exposition: 
 ## Permanente de juillet 2024 au janvier 2030, itinéaire, intérieure
 # Date de visite: 
