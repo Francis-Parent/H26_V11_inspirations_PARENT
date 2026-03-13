@@ -34,4 +34,4 @@
 - https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dexpo-67
 - https://www.expo67.museum/ressource/encyclopedie-du-mem-memoires-dexpo-67/
 - https://www2.banq.qc.ca/histoire_quebec/parcours_thematiques/Expo67/peupler_la_terre/index_nations.jsp
-- Les autres photos sont prises par Martin Parent
+- Les autres photos sont prises par Martin Parent et Francis Parent
