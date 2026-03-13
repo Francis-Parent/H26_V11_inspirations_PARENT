@@ -1,9 +1,11 @@
 # Nom de l'exposition: 
 ## Montréal
 ![photo](photo/Montreal_affiche.JPEG)
-> Moi devant l'édifice MEM par Martin Parent (19 février 2026)
+> Moi à côté de l'affiche Montréal par Martin Parent (19 février 2026)
 # Lieu: 
 ## MEM - Centre des mémoires montréalaises
+![photo](photo/Montreal_location.JPEG)
+> Moi en avant de l'édifice MEM par Martin Parent (19 février 2026)
 # Type d'exposition: 
 ## Permanente de juillet 2024 au janvier 2030, itinéaire, intérieure
 # Date de visite: 
