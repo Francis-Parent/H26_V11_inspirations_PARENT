@@ -1,6 +1,5 @@
 # Nom de l'exposition: 
 ## Montréal
-
 # Lieu: 
 ## MEM - Centre des mémoires montréalaises
 # Type d'exposition: 
@@ -35,4 +34,5 @@
 - https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dexpo-67
 - https://www.expo67.museum/ressource/encyclopedie-du-mem-memoires-dexpo-67/
 - https://www2.banq.qc.ca/histoire_quebec/parcours_thematiques/Expo67/peupler_la_terre/index_nations.jsp
-- Les autres photos sont prises par Martin Parent et Francis Parent
+- Le croquis a été pris par Francis Parent
+- Toutes les autres photos sont prises par Martin Parent
