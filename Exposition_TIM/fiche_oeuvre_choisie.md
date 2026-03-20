@@ -17,7 +17,7 @@
 # Type d'installation: 
 ## Interractive
 # Fonction du dispositif multimédia: 
-## 
+## Support pédagogique 
 # Mise en espace:
 # Composantes et techniques: 
 ## 
