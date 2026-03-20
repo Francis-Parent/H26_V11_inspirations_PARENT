@@ -5,7 +5,7 @@
 # Type d'exposition: 
 ## Temporaire, intérieure
 # Date de visite: 
-## 
+## 20 mars 2026
 # Titre de l'oeuvre: 
 ## TERMINAL
 # Nom des artistes: 
