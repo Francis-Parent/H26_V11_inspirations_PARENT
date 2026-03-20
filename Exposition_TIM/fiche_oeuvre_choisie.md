@@ -13,7 +13,7 @@
 # Année de réalisation: 
 ## 2026
 # Description de l'oeuvre: 
-## 
+## C'est un jeu électronique projeté sur un mur où un maximum de 6 joueurs jouent des personnages pixellisés qui essaient de travailler ensemble pour arrêter la cyberattaque d'un pirate informatique. Le but du jeux est que tout les joueurs arrivent à une zone spécifiée alors que plusieurs obstacles essaient de les arrêter. Pendant qu'un joueur bouge, une ligne apparaît derrière le personnage, ce qui peut bloquer le chemin de d'autres joueurs ou les faires être éliminés. Si un seul joueur se fait éliminé par un obstacle, tout les joueurs doivent recommencer le niveau de zéro.
 # Type d'installation: 
 ## Interractive
 # Fonction du dispositif multimédia: 
