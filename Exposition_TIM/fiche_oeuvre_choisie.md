@@ -41,7 +41,8 @@
 - Poufs gonfables (1-6)
 - Podium code QR (1)
 - Fairy lights (1)
-## 
+- Code pour le jeu (1)
+## Le code pour le jeu et les tablettes/téléphones mobiles sont faciles à transporter, à cause qu'ils sont numériques sur des ordinateurs ou c'est un accessoire que presque tout le monde a dans leurs poches. Pour le reste de l'équipement, il serait nécessaire à y faire sérieusement attention pendant un transport, parce que presque tout coûte une grosse somme d'argent pour les acquérir et du dommage pourrait les rendres non-fonctionnels et certains aspects de l'exposition ne pourront pas être démontrés de la façon demandée.
 # Éléments nécessaires: 
 ## 
 # Expérience vécue:
