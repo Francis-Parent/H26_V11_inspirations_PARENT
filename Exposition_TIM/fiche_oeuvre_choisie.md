@@ -20,6 +20,27 @@
 ## Support pédagogique 
 # Mise en espace:
 # Composantes et techniques: 
+- Ordinateur (1)
+- Projecteur (1)
+- Tablettes / téléphones mobiles (1-6)
+- Routeur Wi-Fi (1)
+- Haut-parleurs (2)
+- Sender / Receiver (1)
+- Cables Ethernet (3-4)
+- Câbles vidéo (1)
+- Câbles audio (2)
+- Câbles d’alimentation (1)
+- Multiprise / rallonge électrique (1)
+- Lumière plafond American DJ (1)
+- Lumière Baton (2-4)
+- Boite de lumière (1)
+- Ralonges pour lumières (2-4)
+- Power supply pour boite à lumière (1)
+- Boules de connections de lumières (2)
+- Carte graphique extérieur (1)
+- Poufs gonfables (1-6)
+- Podium code QR (1)
+- Fairy lights (1)
 ## 
 # Éléments nécessaires: 
 ## 
