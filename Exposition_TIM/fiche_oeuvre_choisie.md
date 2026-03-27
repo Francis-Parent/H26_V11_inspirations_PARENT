@@ -13,7 +13,7 @@
 # Année de réalisation: 
 ## 2026
 # Description de l'oeuvre: 
-## C'est un jeu électronique projeté sur un mur où un maximum de 6 joueurs jouent des personnages pixellisés qui essaient de travailler ensemble pour arrêter la cyberattaque d'un pirate informatique. Le but du jeux est que tout les joueurs arrivent à une zone spécifiée alors que plusieurs obstacles essaient de les arrêter. Pendant qu'un joueur bouge, une ligne apparaît derrière le personnage, ce qui peut bloquer le chemin de d'autres joueurs ou les faires être éliminés. Si un seul joueur se fait éliminé par un obstacle, tout les joueurs doivent recommencer le niveau de zéro.
+## C'est un jeu électronique projeté sur un mur où un maximum de 6 joueurs essaient de travailler ensemble pour arrêter la cyberattaque d'un pirate informatique. Le but du jeux est que les joueurs doivent arriver à une zone spécifique en contournant plusieurs obstacles. Pendant qu'un joueur bouge, une ligne apparaît derrière eux, ce qui peut bloquer le chemin de d'autres joueurs ou les faires être éliminés. Si un joueur se fait éliminé par un obstacle, tout le monde doit recommencer le niveau du début. Aussi, le niveau peut changer d'apparence dépendant du nombre de joueurs présent.
 # Type d'installation: 
 ## Interractive
 # Fonction du dispositif multimédia: 
@@ -42,7 +42,7 @@
 - Podium code QR (1)
 - Fairy lights (1)
 - Code pour le jeu (1)
-## Le code pour le jeu et les tablettes/téléphones mobiles sont faciles à transporter, à cause qu'ils sont numériques sur des ordinateurs ou c'est un accessoire que presque tout le monde a dans leurs poches. Pour le reste de l'équipement, il serait nécessaire à y faire sérieusement attention pendant un transport, parce que presque tout coûte une grosse somme d'argent pour les acquérir et du dommage pourrait les rendres non-fonctionnels et certains aspects de l'exposition ne pourront pas être démontrés de la façon demandée.
+## Le code pour le jeu et les tablettes/téléphones mobiles sont faciles à transporter, à cause que le code est numérique sur un ordinateur et que les téléphones utilisés sont ceux des joueurs. Pour le reste de l'équipement, il serait nécessaire à faire sérieusement attention pendant un transport, parce que presque toute coûte une grosse somme d'argent pour les acquérir et du dommage pourrait les rendres non-fonctionnels. Si jamais des équipements deviennent non-fonctionnels, certains aspects de l'exposition ne pourront pas être démontrés de la façon imaginée par l'équipe.
 # Éléments nécessaires: 
 - Ordinateur (1)
 - Projecteur (1)
