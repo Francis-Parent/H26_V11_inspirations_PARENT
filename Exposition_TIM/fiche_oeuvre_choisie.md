@@ -69,4 +69,5 @@
 # Aspects à ne pas retenir: 
 ## 
 # Références:
+- https://tim-montmorency.com/2026/#/
 - https://pythons-5.github.io/Terminal/#/
