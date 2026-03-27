@@ -42,7 +42,8 @@
 - Podium code QR (1)
 - Fairy lights (1)
 - Code pour le jeu (1)
-## Le code pour le jeu et les tablettes/téléphones mobiles sont faciles à transporter, à cause que le code est numérique sur un ordinateur et que les téléphones utilisés sont ceux des joueurs. Pour le reste de l'équipement, il serait nécessaire à faire sérieusement attention pendant un transport, parce que presque toute coûte une grosse somme d'argent pour les acquérir et du dommage pourrait les rendres non-fonctionnels. Si jamais des équipements deviennent non-fonctionnels, certains aspects de l'exposition ne pourront pas être démontrés de la façon imaginée par l'équipe.
+- Les tracks sonores (15)
+## Le code pour le jeu, les tracks sonores et les tablettes/téléphones mobiles sont faciles à transporter, à cause que le code et les tracks sonores sont numériques sur un ordinateur et que les téléphones utilisés sont ceux des joueurs. Pour le reste de l'équipement, il serait nécessaire à faire sérieusement attention pendant un transport, parce que presque toute coûte une grosse somme d'argent pour les acquérir et du dommage pourrait les rendres non-fonctionnels. Si jamais des équipements deviennent non-fonctionnels, certains aspects de l'exposition ne pourront pas être démontrés de la façon imaginée par l'équipe.
 # Éléments nécessaires: 
 - Ordinateur (1)
 - Projecteur (1)
@@ -56,6 +57,7 @@
 - Multiprise / rallonge électrique (1)
 - Podium code QR (1)
 - Code pour le jeu (1)
+- Les tracks sonores (15)
 # Expérience vécue:
 ## 
 # Ce qui m'a plu: 
