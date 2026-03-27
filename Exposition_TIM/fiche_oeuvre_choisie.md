@@ -1,7 +1,7 @@
 # Nom de l'exposition: 
 ## Réseau vivant
 # Lieu: 
-## Collège Montmorency
+## Collège Montmorency, au local C-1712
 # Type d'exposition: 
 ## Temporaire, intérieure
 # Date de visite: 
