@@ -18,7 +18,7 @@
 # Année de réalisation: 
 ## 2026
 # Description de l'oeuvre: 
-## 
+## C'est un programme où il y a un écran placé au centre de la salle pour que les visiteurs puissent intéragir avec. Les visiteurs vont être encouragés de choisir entre plusieurs choix disponibles pour décider comment l'IA devrait conduire la voiture comme par exemple: le style de conduite, la détection des obstacles, la durée de l'entrainement, comment le véhicule va freiner et la couleur de la voiture. Ensuite, le programme va générer une vidéo de la conduite de la voiture. Finalement, il va y avoir un résultat qui jugera la qualité de conduite avec par exemple: une conduite parfaite, un danger publique, une tortue stationnée, etc.
 # Type d'installation: 
 ## Interractive
 # Fonction du dispositif multimédia: 
