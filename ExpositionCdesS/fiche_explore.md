@@ -32,7 +32,7 @@
 # Expérience vécue:
 ## 
 # Ce qui m'a plu: 
-## 
+## Premièrement, 
 # Aspects à ne pas retenir: 
 ## Mon critère serait que l'oeuvre devient un peu répétitif parce qu'elle n'a pas beaucoup d'options. Avec des options limitées pour le programme, l'intérêt du visiteur tombe pour essayer d'expériencer le reste de l'oeuvre. Sinon, je n'ai pas vraiment d'aspects que je ne voudrais pas retenir de cette oeuvre.
 # Références:
