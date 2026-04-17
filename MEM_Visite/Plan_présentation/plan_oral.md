@@ -7,7 +7,7 @@ On va parler du lieu de l'exposition, de l'oeuvre, de mon expérience, de ma app
 ## Description
 
 ## Oeuvre
-L'oeuvre est situé proche de la fin de l'exposition dans un coin à gauche quand qu'on tourne pour continuer l'expérience. On accès l'oeuvre en rentrant dans le batîment, prendre les escaliers pour se rendre au deuxième étage, continuer en avant, tourner à droite et continuer en avant encore pour la trouver à la droite du corridor.
+L'oeuvre est situé proche de la fin de l'exposition dans un coin à gauche quand qu'on tourne pour continuer l'expérience. On accès l'oeuvre en rentrant dans le batîment, prendre les escaliers pour se rendre au deuxième étage, continuer en avant, tourner à droite et continuer en avant encore pour la trouver à la droite du corridor. Les composants de l'expérience sont les plusieurs vidéos jouées sur le mur, les pistes audios qui accompagnent les vidéos et les nombreux objets attachés sur le mur courbe.
 ## Expérience
 
 ## Appréciation
