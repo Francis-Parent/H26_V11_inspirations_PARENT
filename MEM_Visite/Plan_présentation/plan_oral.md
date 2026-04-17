@@ -5,7 +5,7 @@ Mon objectif est d'apporter intérêt à apprendre l'histoire de la ville de Mon
 On va parler du lieu de l'exposition, de l'oeuvre, de mon expérience, de ma appréciation et des liens avec d'autres oeuvres de cette session.
 # Développement
 ## Description
-
+Le lieu de l'exposition, le Centre des mémoires montréalaises, est un musée où son but est d'expliquer et de mettre en valeur l'histoire de la ville de Montréal et des vies des communautés qui vivent dedans. Le contenu dans le batîment est principalement des moments historiques et des expériences vécues par la population de la ville de Montréal qui sont présentées pour apprendre plus d'informations à des individus.
 ## Oeuvre
 L'oeuvre est situé proche de la fin de l'exposition dans un coin à gauche quand qu'on tourne pour continuer l'expérience. On accès l'oeuvre en rentrant dans le batîment, prendre les escaliers pour se rendre au deuxième étage, continuer en avant, tourner à droite et continuer en avant encore pour la trouver à la droite du corridor. Les composants uniques pour l'expérience sont les plusieurs vidéos jouées sur le mur, les pistes audios qui accompagnent les vidéos et les nombreux objets attachés sur le mur courbe qui servent d'artifacts. Les éléments utilisés pour montrer l'oeuvre sont les haut-parleurs, les projecteurs, les rideaux noirs pour bien garder la lumière dans l'endroit, le centre de contrôle pour jouer les vidéos et les bancs pour s'asseoir.
 ## Expérience
