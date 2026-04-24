@@ -9,3 +9,4 @@ Pour conclure, j’ai beaucoup apprécié la conférence à cause des explicatio
 
 Références:
 - https://museebombardier.com/
+- https://ameliofrancais.ccdmd.qc.ca/storage/amelioration-du-francais/ressources/1696430972-Genres_Genres_02lecompterenducritique_V2.pdf
