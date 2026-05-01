@@ -2,7 +2,7 @@
 ## Réseau vivant
 <img width="962" height="1289" alt="Reseau_Vivant_affiche" src="https://github.com/user-attachments/assets/acbd3ef2-7e4e-4fb3-9bf6-96426a8cd2e5" />
 > Affiche de l'exposition TIM a été pris par Ting Yung Lu Terry (16 mars 2026)
-> 
+
 # Lieu: 
 ## Collège Montmorency, au local C-1712
 <img width="1767" height="1330" alt="Reseau_Vivant_location" src="https://github.com/user-attachments/assets/2406a6b7-5da8-4c0f-9e7b-8254fb2cea88" />
