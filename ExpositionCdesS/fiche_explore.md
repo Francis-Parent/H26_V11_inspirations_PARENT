@@ -73,7 +73,7 @@
 > Photos de l'expérience qui peut être vécus ont étés prisent par Francis Parent (1 avril 2026)
 
 # Ce qui m'a plu: 
-## Premièrement, 
+## Premièrement, j'aime beaucoup les options de personification disponibles dans le menu avant de commencer le programme, parce qu'ils donnent des choix pour comment le visiteur voudrait voir la voiture conduire. Deuxièmement, l'expérience de voir la voiture conduire dépendant des choix est amusant, à cause que la voiture peut conduire parfaitement ou être un danger publique, ce qui le fait être hilarant au moins pour la première fois. Finalement, j'aime les rangs qui sont attibués à la fin, car ils ajoutent un charme et une évaluation pour que le visiteur puissent essayer de trouver tout les rangs, d'un as à conduire ou un danger de la population.
 # Aspects à ne pas retenir: 
 ## Mon critère serait que l'oeuvre devient un peu répétitif parce qu'elle n'a pas beaucoup d'options. Avec des options limitées pour le programme, l'intérêt du visiteur tombe pour essayer d'expériencer le reste de l'oeuvre. Sinon, je n'ai pas vraiment d'aspects que je ne voudrais pas retenir de cette oeuvre.
 # Références:
