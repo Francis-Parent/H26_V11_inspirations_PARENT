@@ -53,6 +53,7 @@
 - Code pour le jeu (1)
 - Les tracks sonores (15)
   <img width="1027" height="748" alt="Reseau_Vivant_projecteur" src="https://github.com/user-attachments/assets/742dd1bb-478f-4b97-850f-bdcef94bba6f" />
+  ![Reseau_Vivant_projecteur](/photo/Reseau_vivant_projecteur.png "projecteur")
 
 ## Le code pour le jeu, les tracks sonores et les tablettes/téléphones mobiles sont faciles à transporter, à cause que le code et les tracks sonores sont numériques sur un ordinateur et que les téléphones utilisés sont ceux des joueurs. Pour le reste de l'équipement, il serait nécessaire à faire sérieusement attention pendant un transport, parce que presque toute coûte une grosse somme d'argent pour les acquérir et du dommage pourrait les rendres non-fonctionnels. Si jamais des équipements deviennent non-fonctionnels, certains aspects de l'exposition ne pourront pas être démontrés de la façon imaginée par l'équipe.
 # Éléments nécessaires: 
@@ -72,6 +73,7 @@
 - Code pour le jeu (1)
 - Les tracks sonores (15)
   <img width="1027" height="748" alt="Reseau_Vivant_projecteur" src="https://github.com/user-attachments/assets/24fd4321-ba54-4126-8f9d-ea14b6c1950d" />
+  ![Reseau_Vivant_projecteur](/photo/Reseau_vivant_projecteur.png "projecteur")
 
 # Expérience vécue:
 ## Quand que je suis rentré dans la salle d'exposition, j'ai du utiliser mon téléphone pour scanner un code QR. Puis, je me suis assis sur un pouf gonfable en avant du mur où un projecteur montrait l'expérience. J'étais avec d'autres personnes pour participer à l'activité, ce qui était intéressant parce que plusieurs des autres expériences que j'avais vécu dans d'autres expositions étaient seul. Quand que l'expérience a commencé, j'ai vu la vidéo qui expliquait les contrôles de l'activité et le but à accomplir. Pendant mon temps avec l'expérience, le jeu était simple visuellement, mais efficace dans son exécution et amusant à jouer. Une des grandes raisons pour mon amusement était comment le jeu encourageait la communication entre les visiteurs pour accomplir le but dans chaque niveau. Plusieurs des obstacles que je devais contourné ont été surmonté par la communication entre nous pour essayer de formuler un plan et accomplir le niveau. Aussi, l'intéractivité du jeu avec les contrôles sur mon téléphone a contribué à l'expérience positif que je suis ressorti avec quand que l'activité a terminé. Pour terminer, cette activité va varier entre chaque personne, mais la majorité des visiteurs devrait ressortir avec une bonne expérience dans leur tête.
