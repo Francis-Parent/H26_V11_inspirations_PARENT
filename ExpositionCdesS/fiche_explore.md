@@ -25,10 +25,19 @@
 ## Support pédagogique
 # Mise en espace:
 # Composantes et techniques: 
-- 
+- Écran qui peut être intéragit avec
+- Télévision
+- 3 Caméras de lumière
+- Le code de l'expérience
+- Projecteur
 ## 
 # Éléments nécessaires: 
-- 
+- Source d'électricité
+- Télevision
+- Écran qui peut être intéragit avec
+- Le code de l'expérience
+- Salle isolée des autres expériences
+- Projecteur
 # Expérience vécue:
 ## 
 # Ce qui m'a plu: 
@@ -37,4 +46,5 @@
 ## Mon critère serait que l'oeuvre devient un peu répétitif parce qu'elle n'a pas beaucoup d'options. Avec des options limitées pour le programme, l'intérêt du visiteur tombe pour essayer d'expériencer le reste de l'oeuvre. Sinon, je n'ai pas vraiment d'aspects que je ne voudrais pas retenir de cette oeuvre.
 # Références:
 - https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+- Les photos ont étés prisent par Francis Parent
 
