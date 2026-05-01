@@ -1,5 +1,6 @@
 # Nom de l'exposition: 
 ## Explore
+![photo](photo/ExpositionCdesS/Centre_Science_affiche.jpeg)
 # Lieu: 
 ## Centre des sciences Montréal
 # Type d'exposition: 
