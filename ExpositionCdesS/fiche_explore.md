@@ -1,10 +1,12 @@
 # Nom de l'exposition: 
 ## Explore
 ![photo](photo/Centre_Science_exposition.jpeg)
+> Photo du nom de l'exposition a été pris par Francis Parent (1 avril 2026)
 
 # Lieu: 
 ## Centre des sciences Montréal
 ![photo](photo/Centre_Science_batiment.jpeg)
+> Photo du batîment de l'exposition a été pris par Francis Parent (1 avril 2026)
 
 # Type d'exposition: 
 ## Permanente, intérieur
@@ -13,6 +15,7 @@
 # Titre de l'oeuvre: 
 ## Peux-tu entrainer une voiture à conduire toute seule?
 ![photo](photo/Centre_Science_affiche.jpeg)
+> Photo de l'affiche de l'expérience a été pris par Francis Parent (1 avril 2026)
 
 # Nom des artistes: 
 - Elisabeth Doyon
@@ -22,6 +25,7 @@
 - Ubisoft La Forge
 - Ubisoft Groupe Technologie
   ![photo](photo/Centre_Science_references.jpeg)
+  > Photo des crédits a été pris par Francis Parent (1 avril 2026)
   
 # Année de réalisation: 
 ## 2026
@@ -30,6 +34,7 @@
 ![photo](photo/Centre_Science_entree.jpeg)
 ![photo](photo/Centre_Science_environnement.jpeg)
 ![photo](photo/Centre_Science_television.jpeg)
+> Photos de l'environnement de l'expérience ont étés prisent par Francis Parent (1 avril 2026)
 
 # Type d'installation: 
 ## Interractive
@@ -44,6 +49,7 @@
 - Projecteur
   ![photo](photo/Centre_Science_ecran_interagir.jpeg)
   ![photo](photo/Centre_Science_television.jpeg)
+  > Photos des composants utilisés ont étés prisent par Francis Parent (1 avril 2026)
   
 # Éléments nécessaires: 
 - Source d'électricité
@@ -56,6 +62,7 @@
   ![photo](photo/Centre_Science_television.jpeg)
   ![photo](photo/Centre_Science_camera_un.jpeg)
   ![photo](photo/Centre_Science_camera_deux.jpeg)
+  > Photos des éléments nécessaires ont étés prisent par Francis Parent (1 avril 2026)
   
 # Expérience vécue:
 ![photo](photo/Centre_Science_experience_un.jpeg)
@@ -63,6 +70,7 @@
 ![photo](photo/Centre_Science_experience_trois.jpeg)
 ![photo](photo/Centre_Science_experience_quatre.jpeg)
 ![photo](photo/Centre_Science_experience_cinq.jpeg)
+> Photos de l'expérience qui peut être vécus ont étés prisent par Francis Parent (1 avril 2026)
 
 # Ce qui m'a plu: 
 ## Premièrement, 
